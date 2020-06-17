@@ -1,3 +1,6 @@
+## The Live Example of this project can be accessed at
+https://yanuwarishak.github.io/kulina-pretest
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
